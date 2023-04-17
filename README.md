@@ -1,5 +1,5 @@
 # PROJECT: Open Light
-Roblox Game Project - Progress 3%
+Roblox Game Project - Progress 25%
 <hr>
 31.3. 2023 - Project start<br>
 - added fixed side-view cam<br>
