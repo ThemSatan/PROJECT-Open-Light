@@ -1,5 +1,5 @@
 # PROJECT: Open Light
-Roblox Game Project - Progress 25%
+Roblox Game Project - Progress 75%
 <hr>
 31.3. 2023 - Project start<br>
 - added fixed side-view cam<br>
@@ -11,3 +11,8 @@ Roblox Game Project - Progress 25%
 - added more rooms (Bathroom, Dining Room, Attic, etc.)<br>
 - added more custom models<br>
 - came up with a name :)<br>
+18-27.4 2023<br>
+- whole map done<br>
+- added even more models (no way)<br>
+- getting ready for scripting  :skull:<br>
+- accepted help from Plawro<br>
