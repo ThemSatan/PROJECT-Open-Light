@@ -15,4 +15,4 @@ Roblox Game Project - Progress 75%
 - whole map done<br>
 - added even more models (no way)<br>
 - getting ready for scripting  :skull:<br>
-- accepted help from Plawro<br>
+- accepted help from @Plawro_ales<br>
