@@ -1,5 +1,5 @@
 # PROJECT: Open Light
-Roblox Game Project - Progress 75%
+Roblox Game Project - Progress 82%
 <hr>
 31.3. 2023 - Project start<br>
 - added fixed side-view cam<br>
@@ -16,10 +16,13 @@ Roblox Game Project - Progress 75%
 - added even more models (no way)<br>
 - getting ready for scripting  :skull:<br>
 - accepted help from @Plawro_ales<br>
+28-30.4 2023<br>
+- added Light (Thank you Plawro for help)<br>
+- added Fog<br>
+- Made process on Hunt Event script<br>
 <br>
 <br>
 To-Do List<br>
-- Lights, moving with player<br>
-- Hunt<br>
+- Hunt Event - 80% done<br>
 - End cutscene<br>
 - Crouch<br>
