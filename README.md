@@ -16,16 +16,16 @@ Roblox Game Project - Progress 100%<br>
 - whole map done<br>
 - added even more models (no way)<br>
 - getting ready for scripting  :skull:<br>
-- accepted help from @Plawro_ales<br>
+- accepted help from <a href"https://github.com/Plawro">Plawro</a><br>
 <h4>28-30.4 2023</h4><br>
-- added Light (Thank you Plawro for help)<br>
+- added Light (Thank you <a href"https://github.com/Plawro">Plawro</a> for help)<br>
 - added Fog<br>
 - Made process on Hunt Event script<br>
 <h4>1.-8.5 2023 - Finishing Touches</h4><br>
 - finished Hunt event<br>
 - added Sky<br>
 - added Ending<br>
-- added two easter eggs dedicated to my helpers Plawro and Kyom_9393<br>
+- added two easter eggs dedicated to my helpers <a href"https://github.com/Plawro">Plawro</a> and <a href"https://github.com/Kyom9393">Kyom9393</a><br>
 - GAME PUBLISHED YIPPEE<br>
 - bug fixing + more<br>
 <br>
