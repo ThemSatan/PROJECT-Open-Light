@@ -16,7 +16,7 @@ Roblox Game Project - Progress 100%<br>
 - whole map done<br>
 - added even more models (no way)<br>
 - getting ready for scripting  :skull:<br>
-- accepted help from <a href="https://github.com/Plawro">Plawro</a>>Plawro</a><br>
+- accepted help from <a href="https://github.com/Plawro">Plawro</a><br>
 <h4>28-30.4 2023</h4><br>
 - added Light (Thank you <a href="https://github.com/Plawro">Plawro</a> for help)<br>
 - added Fog<br>
