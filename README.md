@@ -5,16 +5,16 @@ Roblox Game Project - Progress 100%<br>
 <h2>Description</h2><br>
 Lost in a place that looks like your home, but is it really?<br>
 Explore and get to the end before it gets to you.<br>
-![RobloxScreenShot20230511_172823238](RobloxScreenShot20230511_173203041.png)
+<img src="PROJECT-Open-Light/RobloxScreenShot20230511_172823238.png">
 <br>
 Goal of the game is to get to the end of the map and open the big door. Can you survive when it hunts though? Hide in lockers and wardrobes from it when the lights turn off.<br>
-![RobloxScreenShot20230511_173203041](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/650aedc4-68d7-4e14-b30d-1bb96fb37cb3)<br>
+
 <br>
 Movement: WASD<br>
 Interaction: Left mouse button (the cursor icon changes when hovering over an interactible object)<br>
 <br>
 Big thank you goes to my friend <a href="https://github.com/Plawro">Plawro</a> who helped me with a few scripts and with a little bit of building. I also thank <a href="https://github.com/Kyom9393">Kyom9393</a> for building the locker model that can be seen at the Main Room, it looks horrible.<br>
-![RobloxScreenShot20230511_173324292](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/001ed9ef-de20-47ae-ac5a-cad6837a2949)<br>
+
 <br>
 This game was created as a school project! There is much more to come (hopefully) after I get this graded :]<br>
 <hr>
