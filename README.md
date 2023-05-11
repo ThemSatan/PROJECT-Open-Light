@@ -5,7 +5,7 @@ Roblox Game Project - Progress 100%<br>
 <h2>Description</h2><br>
 Lost in a place that looks like your home, but is it really?<br>
 Explore and get to the end before it gets to you.<br>
-![RobloxScreenShot20230511_172823238](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/a461a084-af3d-4d4e-9611-f739e37a648c)<br>
+![RobloxScreenShot20230511_172823238](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/a461a084-af3d-4d4e-9611-f739e37a648c)
 <br>
 Goal of the game is to get to the end of the map and open the big door. Can you survive when it hunts though? Hide in lockers and wardrobes from it when the lights turn off.<br>
 ![RobloxScreenShot20230511_173203041](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/650aedc4-68d7-4e14-b30d-1bb96fb37cb3)<br>
