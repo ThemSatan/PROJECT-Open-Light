@@ -5,7 +5,7 @@ Roblox Game Project - Progress 100%<br>
 <h2>Description</h2><br>
 Lost in a place that looks like your home, but is it really?<br>
 Explore and get to the end before it gets to you.<br>
-<img src="PROJECT-Open-Light/RobloxScreenShot20230511_172823238.png">
+<img src="RobloxScreenShot20230511_172823238.png">
 <br>
 Goal of the game is to get to the end of the map and open the big door. Can you survive when it hunts though? Hide in lockers and wardrobes from it when the lights turn off.<br>
 
