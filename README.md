@@ -2,6 +2,22 @@
 Roblox Game Project - Progress 100%<br>
 <a href="https://www.roblox.com/games/12990580350/Project-Open-Light">Link to Game</a>
 <hr>
+<h2>Description</h2><br>
+Lost in a place that looks like your home, but is it really?<br>
+Explore and get to the end before it gets to you.<br>
+![RobloxScreenShot20230511_172823238](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/a461a084-af3d-4d4e-9611-f739e37a648c)<br>
+<br>
+Goal of the game is to get to the end of the map and open the big door. Can you survive when it hunts though? Hide in lockers and wardrobes from it when the lights turn off.<br>
+![RobloxScreenShot20230511_173203041](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/650aedc4-68d7-4e14-b30d-1bb96fb37cb3)<br>
+<br>
+Movement: WASD<br>
+Interaction: Left mouse button (the cursor icon changes when hovering over an interactible object)<br>
+<br>
+Big thank you goes to my friend <a href="https://github.com/Plawro">Plawro</a> who helped me with a few scripts and with a little bit of building. I also thank <a href="https://github.com/Kyom9393">Kyom9393</a> for building the locker model that can be seen at the Main Room, it looks horrible.<br>
+![RobloxScreenShot20230511_173324292](https://github.com/ThemSatan/PROJECT-Open-Light/assets/91114584/001ed9ef-de20-47ae-ac5a-cad6837a2949)<br>
+<br>
+This game was created as a school project! There is much more to come (hopefully) after I get this graded :]<br>
+<hr>
 <h4>31.3. 2023 - Project start</h4><br>
 - added fixed side-view cam<br>
 <h4>5-6.4 2023 - Adding Rooms</h4><br>
@@ -29,17 +45,4 @@ Roblox Game Project - Progress 100%<br>
 - GAME PUBLISHED YIPPEE<br>
 - bug fixing + more<br>
 <br>
-<hr>
-<h2>Description</h2><br>
-Lost in a place that looks like your home, but is it really?<br>
-Explore and get to the end before it gets to you.<br>
-<br>
-Goal of the game is to get to the end of the map and open the big door. Can you survive when it hunts though? Hide in lockers and wardrobes from it.<br>
-<br>
-Movement: WASD<br>
-Interaction: Left mouse button (the cursor icon changes when hovering over an interactible object)<br>
-<br>
-Big thank you goes to my friend <a href="https://github.com/Plawro">Plawro</a> who helped me with a few scripts and with a little bit of building. I also thank <a href="https://github.com/Kyom9393">Kyom9393</a> for building the locker model that can be seen at the Main Room, it looks horrible.<br>
-<br>
-This game was created as a school project! There is much more to come (hopefully) after I get this graded :]<br>
 <hr>
