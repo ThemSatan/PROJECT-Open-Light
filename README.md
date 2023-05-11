@@ -18,6 +18,7 @@ Big thank you goes to my friend <a href="https://github.com/Plawro">Plawro</a> w
 <br>
 This game was created as a school project! There is much more to come (hopefully) after I get this graded :]<br>
 <hr>
+<h2>Update Logs</h2><br>
 <h4>31.3. 2023 - Project start</h4><br>
 - added fixed side-view cam<br>
 <h4>5-6.4 2023 - Adding Rooms</h4><br>
