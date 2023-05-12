@@ -26,7 +26,7 @@ Game playable on Roblox. Roblox can be downloaded by clicking play and then a do
 Download the PROJECT Open Light.rbxl file and open it in Roblox Studio. (Game is dark, go to Lighting and remove the Skybox. Fog can be turned off in Lighting Properties.<br>
 <br>
 <img src="hint.png">
-Set the number to 10000.<br>
+Set the FogEnd number to 10000.<br>
 <hr>
 <h2>Update Logs</h2><br>
 <h4>31.3. 2023 - Project start</h4><br>
