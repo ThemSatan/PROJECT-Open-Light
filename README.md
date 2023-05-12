@@ -40,6 +40,7 @@ This game was created as a school project! There is much more to come (hopefully
 <h4>28-30.4 2023</h4><br>
 - added Light (Thank you <a href="https://github.com/Plawro">Plawro</a> for help)<br>
 - added Fog<br>
+- added Death screen<br>
 - Made process on Hunt Event script<br>
 <h4>1.-8.5 2023 - Finishing Touches</h4><br>
 - finished Hunt event<br>
