@@ -21,6 +21,7 @@ Big thank you goes to my friend <a href="https://github.com/Plawro">Plawro</a> w
 <br>
 This game was created as a school project! There is much more to come (hopefully) after I get this graded :]<br>
 <br>
+<h2>How to play/open<h2><br>
 Game playable on Roblox. Roblox can be downloaded by clicking play and then a download window comes up. To view scripts Roblox Studio must be downloaded.<br>
 <a href="https://www.roblox.com/create">Link here</a>. Click start creating to download Roblox Studio.<br>
 Download the PROJECT Open Light.rbxl file and open it in Roblox Studio. (Game is dark, go to Lighting and remove the Skybox. Fog can be turned off in Lighting Properties.<br>
