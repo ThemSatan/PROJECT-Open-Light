@@ -1,6 +1,7 @@
 # PROJECT: Open Light
 Roblox Game Project - Progress 100%<br>
-<a href="https://www.roblox.com/games/12990580350/Project-Open-Light">Link to Game</a>
+<a href="https://www.roblox.com/games/12990580350/Project-Open-Light">Link to Game</a><br>
+<a href="https://www.youtube.com/embed/ARzfAvzwlfg">Link to Gameplay video</a>
 <hr>
 <h2>Description</h2><br>
 Lost in a place that looks like your home, but is it really?<br>
