@@ -30,8 +30,6 @@ Download the PROJECT Open Light.rbxl file and open it in Roblox Studio. (Game is
 <img src="hint.png">
 Set the FogEnd number to 10000.<br>
 <hr>
-
-<hr>
 <h2>Update Logs</h2><br>
 <h4>31.3. 2023 - Project start</h4><br>
 - added fixed side-view cam<br>
